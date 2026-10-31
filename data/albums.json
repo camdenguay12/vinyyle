@@ -1,5 +1,5 @@
 {
-  "version": "starter-2",
+  "version": "starter-3",
   "license_note": "Curated seed list; not yet a verified MusicBrainz dump extraction. Genre labels are original editorial classifications.",
   "albums": [
     {
@@ -14,7 +14,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 3,
@@ -42,7 +44,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 4,
@@ -56,7 +59,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 5,
@@ -70,7 +74,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 6,
@@ -84,7 +89,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 7,
@@ -98,7 +104,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 8,
@@ -112,7 +119,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 9,
@@ -126,7 +134,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 10,
@@ -140,7 +149,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 11,
@@ -154,7 +164,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 12,
@@ -168,7 +179,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 13,
@@ -182,7 +194,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 14,
@@ -196,7 +209,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 15,
@@ -210,7 +224,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 16,
@@ -224,7 +239,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 17,
@@ -238,7 +254,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 18,
@@ -252,7 +269,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 19,
@@ -266,7 +284,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 20,
@@ -280,7 +299,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 21,
@@ -294,7 +314,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 22,
@@ -308,7 +329,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 23,
@@ -322,7 +344,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 24,
@@ -336,7 +359,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 25,
@@ -350,7 +374,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 26,
@@ -364,7 +389,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 27,
@@ -378,7 +404,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 28,
@@ -392,7 +419,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 29,
@@ -406,7 +434,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 30,
@@ -420,7 +449,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 31,
@@ -434,7 +464,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 32,
@@ -448,7 +479,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 33,
@@ -462,7 +494,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 34,
@@ -476,7 +509,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 35,
@@ -490,7 +524,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 36,
@@ -504,7 +539,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 37,
@@ -518,7 +554,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 38,
@@ -532,7 +569,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 39,
@@ -546,7 +584,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 40,
@@ -560,7 +599,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 41,
@@ -574,7 +614,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 42,
@@ -588,7 +629,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 43,
@@ -602,7 +644,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 44,
@@ -616,7 +659,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 45,
@@ -630,7 +674,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 46,
@@ -644,7 +689,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 47,
@@ -658,7 +704,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 48,
@@ -672,7 +719,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 49,
@@ -686,7 +734,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 50,
@@ -700,7 +749,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 51,
@@ -714,7 +764,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 52,
@@ -728,7 +779,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 53,
@@ -742,7 +794,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 54,
@@ -756,7 +809,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 55,
@@ -770,7 +824,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 56,
@@ -784,7 +839,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 57,
@@ -798,7 +854,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 58,
@@ -812,7 +869,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 59,
@@ -826,7 +884,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 60,
@@ -840,7 +899,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 61,
@@ -854,7 +914,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 62,
@@ -868,7 +929,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 63,
@@ -882,7 +944,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 64,
@@ -896,7 +959,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 65,
@@ -910,7 +974,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 66,
@@ -924,7 +989,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 67,
@@ -938,7 +1004,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 68,
@@ -952,7 +1019,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 69,
@@ -966,7 +1034,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 70,
@@ -980,7 +1049,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 71,
@@ -994,7 +1064,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 72,
@@ -1008,7 +1079,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 73,
@@ -1022,7 +1094,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 74,
@@ -1036,7 +1109,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 75,
@@ -1050,7 +1124,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 76,
@@ -1064,7 +1139,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 77,
@@ -1078,7 +1154,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 78,
@@ -1092,7 +1169,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 79,
@@ -1106,7 +1184,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 80,
@@ -1120,7 +1199,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 81,
@@ -1134,7 +1214,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 82,
@@ -1148,7 +1229,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 83,
@@ -1162,7 +1244,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 84,
@@ -1176,7 +1259,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 85,
@@ -1190,7 +1274,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 86,
@@ -1204,7 +1289,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 87,
@@ -1218,7 +1304,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 88,
@@ -1232,7 +1319,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 89,
@@ -1246,7 +1334,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 90,
@@ -1260,7 +1349,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 91,
@@ -1274,7 +1364,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 92,
@@ -1288,7 +1379,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 93,
@@ -1302,7 +1394,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 94,
@@ -1316,7 +1409,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 95,
@@ -1330,7 +1424,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 96,
@@ -1344,7 +1439,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 97,
@@ -1358,7 +1454,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 98,
@@ -1372,7 +1469,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 99,
@@ -1386,7 +1484,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 100,
@@ -1400,7 +1499,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 101,
@@ -1414,7 +1514,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 102,
@@ -1428,7 +1529,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 103,
@@ -1442,7 +1544,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 104,
@@ -1456,7 +1559,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 105,
@@ -1470,7 +1574,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 106,
@@ -1484,7 +1589,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 107,
@@ -1498,7 +1604,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 108,
@@ -1512,7 +1619,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 109,
@@ -1526,7 +1634,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 110,
@@ -1540,7 +1649,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 111,
@@ -1554,7 +1664,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 112,
@@ -1568,7 +1679,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 113,
@@ -1582,7 +1694,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 114,
@@ -1596,7 +1709,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 115,
@@ -1610,7 +1724,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 116,
@@ -1624,7 +1739,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 117,
@@ -1638,7 +1754,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 118,
@@ -1652,7 +1769,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 119,
@@ -1666,7 +1784,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 120,
@@ -1680,7 +1799,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 121,
@@ -1694,7 +1814,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 122,
@@ -1708,7 +1829,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 123,
@@ -1722,7 +1844,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 124,
@@ -1736,7 +1859,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 125,
@@ -1750,7 +1874,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 126,
@@ -1764,7 +1889,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 127,
@@ -1778,7 +1904,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 128,
@@ -1792,7 +1919,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 129,
@@ -1806,7 +1934,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 130,
@@ -1820,7 +1949,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 131,
@@ -1834,7 +1964,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 132,
@@ -1848,7 +1979,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 133,
@@ -1862,7 +1994,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 134,
@@ -1876,7 +2009,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 135,
@@ -1890,7 +2024,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 136,
@@ -1904,7 +2039,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 137,
@@ -1918,7 +2054,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 138,
@@ -1932,7 +2069,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 139,
@@ -1946,7 +2084,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 140,
@@ -1960,7 +2099,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 141,
@@ -1974,7 +2114,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 142,
@@ -1988,7 +2129,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 143,
@@ -2002,7 +2144,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 144,
@@ -2016,7 +2159,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 145,
@@ -2030,7 +2174,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 146,
@@ -2044,7 +2189,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 147,
@@ -2058,7 +2204,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 148,
@@ -2072,7 +2219,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 149,
@@ -2086,7 +2234,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 150,
@@ -2100,7 +2249,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 151,
@@ -2114,7 +2264,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 152,
@@ -2128,7 +2279,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 153,
@@ -2142,7 +2294,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 154,
@@ -2156,7 +2309,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 155,
@@ -2170,7 +2324,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 156,
@@ -2184,7 +2339,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 157,
@@ -2198,7 +2354,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 158,
@@ -2212,7 +2369,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 159,
@@ -2226,7 +2384,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 160,
@@ -2240,7 +2399,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 161,
@@ -2254,7 +2414,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 162,
@@ -2268,7 +2429,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 163,
@@ -2282,7 +2444,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 164,
@@ -2296,7 +2459,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 165,
@@ -2310,7 +2474,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 166,
@@ -2324,7 +2489,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 167,
@@ -2338,7 +2504,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 168,
@@ -2352,7 +2519,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 169,
@@ -2366,7 +2534,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 170,
@@ -2380,7 +2549,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 171,
@@ -2394,7 +2564,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 172,
@@ -2408,7 +2579,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 173,
@@ -2422,7 +2594,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 174,
@@ -2436,7 +2609,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 4
     },
     {
       "id": 175,
@@ -2450,7 +2624,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 176,
@@ -2464,7 +2639,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 177,
@@ -2478,7 +2654,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 178,
@@ -2492,7 +2669,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 179,
@@ -2506,7 +2684,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 180,
@@ -2520,7 +2699,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 181,
@@ -2534,7 +2714,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 182,
@@ -2548,7 +2729,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 183,
@@ -2562,7 +2744,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 184,
@@ -2576,7 +2759,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 185,
@@ -2590,7 +2774,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 186,
@@ -2604,7 +2789,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 187,
@@ -2618,7 +2804,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 188,
@@ -2632,7 +2819,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 189,
@@ -2646,7 +2834,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 190,
@@ -2660,7 +2849,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 191,
@@ -2674,7 +2864,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 192,
@@ -2688,7 +2879,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 193,
@@ -2702,7 +2894,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 194,
@@ -2716,7 +2909,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 195,
@@ -2730,7 +2924,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 196,
@@ -2744,7 +2939,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 197,
@@ -2758,7 +2954,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 198,
@@ -2772,7 +2969,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 199,
@@ -2786,7 +2984,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 200,
@@ -2800,7 +2999,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 201,
@@ -2814,7 +3014,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 202,
@@ -2828,7 +3029,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 203,
@@ -2842,7 +3044,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 204,
@@ -2856,7 +3059,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 205,
@@ -2870,7 +3074,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 206,
@@ -2884,7 +3089,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 207,
@@ -2898,7 +3104,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 208,
@@ -2912,7 +3119,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 209,
@@ -2926,7 +3134,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 210,
@@ -2940,7 +3149,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 211,
@@ -2954,7 +3164,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 212,
@@ -2968,7 +3179,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 213,
@@ -2982,7 +3194,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 214,
@@ -2996,7 +3209,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 215,
@@ -3010,7 +3224,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 216,
@@ -3024,7 +3239,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 217,
@@ -3038,7 +3254,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 5
     },
     {
       "id": 218,
@@ -3052,7 +3269,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 219,
@@ -3066,7 +3284,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 220,
@@ -3080,7 +3299,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 221,
@@ -3094,7 +3314,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 222,
@@ -3108,7 +3329,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 223,
@@ -3122,7 +3344,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 224,
@@ -3136,7 +3359,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 225,
@@ -3150,7 +3374,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 226,
@@ -3164,7 +3389,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 227,
@@ -3178,7 +3404,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 228,
@@ -3192,7 +3419,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 229,
@@ -3206,7 +3434,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 230,
@@ -3220,7 +3449,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 231,
@@ -3234,7 +3464,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 232,
@@ -3248,7 +3479,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 233,
@@ -3262,7 +3494,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 234,
@@ -3276,7 +3509,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 235,
@@ -3290,7 +3524,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 236,
@@ -3304,7 +3539,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 237,
@@ -3318,7 +3554,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 238,
@@ -3332,7 +3569,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 239,
@@ -3346,7 +3584,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 240,
@@ -3360,7 +3599,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 241,
@@ -3374,7 +3614,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 3
     },
     {
       "id": 242,
@@ -3388,7 +3629,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 243,
@@ -3402,7 +3644,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 244,
@@ -3416,7 +3659,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 245,
@@ -3430,7 +3674,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 246,
@@ -3444,7 +3689,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 247,
@@ -3458,7 +3704,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 248,
@@ -3472,7 +3719,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 249,
@@ -3486,7 +3734,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 250,
@@ -3500,7 +3749,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 251,
@@ -3514,7 +3764,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 252,
@@ -3528,7 +3779,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 253,
@@ -3542,7 +3794,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 254,
@@ -3556,7 +3809,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 255,
@@ -3570,7 +3824,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 256,
@@ -3584,7 +3839,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 257,
@@ -3598,7 +3854,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 258,
@@ -3612,7 +3869,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 259,
@@ -3626,7 +3884,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 260,
@@ -3640,7 +3899,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 261,
@@ -3654,7 +3914,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 262,
@@ -3668,7 +3929,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 263,
@@ -3682,7 +3944,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 264,
@@ -3696,7 +3959,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 265,
@@ -3710,7 +3974,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 266,
@@ -3724,7 +3989,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 267,
@@ -3738,7 +4004,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 268,
@@ -3752,7 +4019,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 269,
@@ -3766,7 +4034,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 270,
@@ -3780,7 +4049,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 271,
@@ -3794,7 +4064,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 272,
@@ -3808,7 +4079,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 273,
@@ -3822,7 +4094,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 274,
@@ -3836,7 +4109,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 275,
@@ -3850,7 +4124,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 276,
@@ -3864,7 +4139,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 277,
@@ -3878,7 +4154,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 278,
@@ -3892,7 +4169,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 279,
@@ -3906,7 +4184,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 280,
@@ -3920,7 +4199,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 281,
@@ -3934,7 +4214,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 282,
@@ -3948,7 +4229,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 283,
@@ -3962,7 +4244,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 284,
@@ -3976,7 +4259,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 285,
@@ -3990,7 +4274,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 286,
@@ -4004,7 +4289,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 287,
@@ -4018,7 +4304,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 288,
@@ -4032,7 +4319,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 289,
@@ -4046,7 +4334,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 290,
@@ -4060,7 +4349,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 291,
@@ -4074,7 +4364,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 292,
@@ -4088,7 +4379,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 293,
@@ -4102,7 +4394,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 294,
@@ -4116,7 +4409,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 295,
@@ -4130,7 +4424,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 2
     },
     {
       "id": 296,
@@ -4144,7 +4439,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 297,
@@ -4158,7 +4454,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 298,
@@ -4172,7 +4469,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 299,
@@ -4186,7 +4484,8 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     },
     {
       "id": 300,
@@ -4200,7 +4499,9 @@
       "duration_minutes": null,
       "studio_album_number": null,
       "mbid": null,
-      "verification": "curated starter; MusicBrainz ID and edition metrics pending"
+      "verification": "curated starter; MusicBrainz ID and edition metrics pending",
+      "band_size": 1
     }
-  ]
+  ],
+  "band_size_note": "Curated approximate core lineup size; memberships can vary by era. Solo-led projects treated as one. 5 means five or more."
 }
